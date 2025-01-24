@@ -1,16 +1,9 @@
-# sdp_1
+# IoT Application
 
-A new Flutter project.
+This project uses an ESP microcontroller to measure current and voltage for real-time energy monitoring. It calculates power consumption and displays the cost through a mobile IoT application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Real-Time Monitoring: Measures current and voltage from connected devices.
+Energy and Cost Calculation: Tracks power usage and calculates the cost.
+Mobile Integration: Displays data via a mobile application.
+IoT-Based Solution: Uses WiFi to transmit data for remote access.
